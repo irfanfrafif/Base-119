@@ -1,6 +1,6 @@
 # Base 119
 
-### Try the game on [Itch.io]([https://github.com/pandao/editor.md "Heading link"](https://littleshumai.itch.io/base-119))
+### Try the game on [Itch.io](https://littleshumai.itch.io/base-119)
 
 ## Description
 It is the year 2210, and the Skywards Space Station (SSS) is opening an exclusive trading post at BASE 119, dedicated to fulfill personal requests of soldiers living at their biggest fleet headquarters. It's not as easy as it sounds, because every day there's always possible dangers during ship's entire daily operations.
