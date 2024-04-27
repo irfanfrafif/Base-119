@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a7fd454e930a92a47ae01679162ff45c, type: 3}
+  m_Name: Maintenance
+  m_EditorClassIdentifier: 
+  moveSpeedModifier: 1
+  waitTimeModifier: 1
+  materialCooldownModifier: 2
+  customerSpawnModifier: 1
+  priceModifier: 1
+  headline: Machine Maintenance
+  dayInfo: 'A power outage has struck the Skyward Space Station, plunging multiple
+    sectors into darkness. Emergency generators are working tirelessly to restore
+    electricity, but some systems may remain offline for a while. Maintenance is
+    under way.
+
+    
+
+    The maintenance will significantly slow down the operation
+    of machines within the station. Trader will need to adapt to limited functionality
+    until power is fully restored, requiring them to strategize and manage resources
+    efficiently during this crisis.'

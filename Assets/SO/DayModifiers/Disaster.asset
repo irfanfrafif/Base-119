@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a7fd454e930a92a47ae01679162ff45c, type: 3}
+  m_Name: Disaster
+  m_EditorClassIdentifier: 
+  moveSpeedModifier: 1
+  waitTimeModifier: 1
+  materialCooldownModifier: 1
+  customerSpawnModifier: 0.6
+  priceModifier: 1
+  headline: Disaster Relief
+  dayInfo: 'In a shocking turn of events, a massive fire has occured on planet Rubicon
+    6, engulfing half of the planet as a result. Fearing of a cataclysmic disaster,
+    the Planetary Closure Administration have issued a planet wide alert, urging
+    all residents of the planet to evacuate.
+
+
+
+    Expect an increase in the rate
+    at which customers comes to the station. The heightened tension has caused more
+    people to seek for more equipment to help for the relief effort, resulting in
+    a surge in customer activity.'

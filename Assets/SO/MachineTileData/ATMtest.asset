@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1f2ce537008c22542957b6a16385a5ce, type: 3}
+  m_Name: ATMtest
+  m_EditorClassIdentifier: 
+  tiles:
+  - {fileID: 11400000, guid: 6008d24deddfea3448394376b932dab0, type: 2}
+  - {fileID: 11400000, guid: 7dfc740478023cb4d950f81f53f52d1d, type: 2}
+  - {fileID: 11400000, guid: ce78aa1c1ccbd8b4d97b570d1e868f2b, type: 2}
+  - {fileID: 11400000, guid: 3d897c38e5bca424ab94d77595dfeeb2, type: 2}
+  machinePrefab: {fileID: 4166247714015038346, guid: 538377b5bc04d354189b692681d649bd, type: 3}
+  sprites:
+  - {fileID: 21300000, guid: f258b44283df6454f9f7be90db516d65, type: 3}
+  - {fileID: 21300000, guid: 0bbc050dd7bf13e469617cc5a7248ed7, type: 3}
+  - {fileID: 21300000, guid: bdbe0dd86ae1e6d4db9fe646f806f7f3, type: 3}
+  - {fileID: 21300000, guid: 9043a880844db2d459825d19c38e5c81, type: 3}

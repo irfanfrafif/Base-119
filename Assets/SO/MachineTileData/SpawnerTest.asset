@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1f2ce537008c22542957b6a16385a5ce, type: 3}
+  m_Name: SpawnerTest
+  m_EditorClassIdentifier: 
+  machinePrefab: {fileID: 4166247714015038346, guid: 2e9dcfe38f5cd1f4a82b65c7c55f6eb0, type: 3}
+  tiles:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 11400000, guid: 0dd7c8a05b2cb7e46b24dfcbe795602c, type: 2}
+  sprites:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 21300000, guid: 191321501a51afa4a8eec46b95f8af2d, type: 3}

@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a7fd454e930a92a47ae01679162ff45c, type: 3}
+  m_Name: RareSupply
+  m_EditorClassIdentifier: 
+  moveSpeedModifier: 1
+  waitTimeModifier: 1
+  materialCooldownModifier: 1
+  customerSpawnModifier: 1
+  priceModifier: 1.5
+  headline: Rare Supply
+  dayInfo: 'An unusual celestial event in Galaxy AA36 has led to a mass defect in
+    equipment in the vicinity of the system, resulting an increased to demands in
+    both component and commodities. Miners and traders are eager to capitalize on
+    this unique opportunity.
+
+    
+
+    Expect the sale price of commodities and
+    resources in the economy to increase significantly. Take advantage of this lucrative
+    market to boost profits.'

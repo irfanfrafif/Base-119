@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a7fd454e930a92a47ae01679162ff45c, type: 3}
+  m_Name: SolarFlare
+  m_EditorClassIdentifier: 
+  moveSpeedModifier: 0.6
+  waitTimeModifier: 1
+  materialCooldownModifier: 1
+  customerSpawnModifier: 1
+  priceModifier: 1
+  headline: Solar Flare Warning
+  dayInfo: "A solar flare impact from Galaxy AA36 has disrupted all signal systems
+    between Skyward Space Station posts and bases. The Engineering Crew has ensured
+    safety and a full effort has been made to restore full functionality swiftly.\r\n\r\nPlease
+    note that the incident will be causing temporary impairment to all electronic
+    devices and machines. \r\n\r\nExpect that robots, regardless of their respective
+    functions, will be moving slower than its normal speed."
